@@ -1,0 +1,15 @@
+3 + 4;
+3 + 5 * 4;
+3 * (3 + 5) * 4;
+a = 4;
+a = 3; a + 3 * 3; a / 2 + (2 * 3 + 5);
+cat = 3; dog = 4; cat + dog;
+cat = 3; dog = 4; duck = 5; cat * dog / duck;
+cat = 3; dog = 4; cat + dog * dog;
+cat = 3; dog = 4; cat * (cat + dog) + dog;
+cat = 3; dog = 4; duck = 5; cat * (dog / duck);
+big_num = 1000; small_num = 0.001; big_num + small_num;
+big_num = 1000; small_num = 0.001; big_num - small_num;
+big_num = 1000; small_num = 0.001; big_num * small_num;
+big_num = 1000; small_num = 0.001; big_num / small_num;
+big_num = 1000; small_num = 0.001; (big_num + small_num) / small_num;

@@ -1,0 +1,4 @@
+java -jar expr-visitor.jar tests/test2.txt
+
+
+https://seungyooon.tistory.com/251
